@@ -31,4 +31,4 @@ for(i in 1:length(my.id)){ my.data.frame[i,colnames(my.data.frame)%in%temp[[i]]]
 #Now that we have our data in binary variables we can use different prediction techniques
 #How can we help this data along
 #1) Possibly the number of spices?
-#2) We could could combine certain ingrediant names if they are very similar
+#2) We could could combine certain ingrediant names if they are very  similar
